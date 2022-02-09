@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Igor Ganchenko
-* Codeship : https://app.circleci.com/projects/project-dashboard/bitbucket/igorGanchenko/
+* Codeship : https://app.circleci.com/pipelines/github/IgorGanchenko/javaschoolexam/1/workflows/840b6459-c8ce-4bb5-9455-e787b28e5b67/jobs/1
 
 
 ### How to start?  ###
